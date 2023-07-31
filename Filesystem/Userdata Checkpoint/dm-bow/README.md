@@ -28,12 +28,12 @@ The device will fall into trim status once dm-bow device is created
 
 #### trim operation
   ```
-  dm-bow will 
+  For trim operation, dm-bow will collect all trimmed blocks, and add to bow-range set(the bow-range type will be TRIMMED).
   ```
 
 #### write operation
   ```
-    dm-bow will check whether the block exists in trim
+  For write operation, dm-bow will check whether the block in trimmed status, 
   ```
 
 #### other operation

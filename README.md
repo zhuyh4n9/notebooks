@@ -1,5 +1,5 @@
-# notebooks
-personal notebook
+# Notes
+personal notes
 
 ## Directory 
 - [Filesystem](<Filesystem/README.md>)

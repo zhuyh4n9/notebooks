@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"name": "SSH FS - virtual_box",
+			"uri": "ssh://virtual_box/home/zhuyuhang/bsdiff"
+		}
+	],
+	"settings": {}
+}
